@@ -1,0 +1,294 @@
+Ph?n 1.	T?ng quan d? án
+1.	Ph?m vi d? án
+M?t thu vi?n m?i m? c?n có m?t ?ng d?ng d? qu?n lý thu vi?n d? dàng hon.
+?	Ngu?i yêu c?u: ngu?i qu?n lý thu vi?n
+?	Ngu?i dùng: Ngu?i qu?n lý c?a thu vi?n.
+?	L?i ích sau khi có ?ng d?ng: 
+o	Ti?t ki?m th?i gian, công s?c.
+o	Tang hi?u qu? và d? chính xác cho vi?c qu?n lý sách trong thu vi?n.
+Các ch?c nang chính có trong ph?n m?m:
+-	Tìm ki?m (thông tin sách, thông tin ngu?i mu?n, ….).
+-	Xem danh sách các d?u sách
+-	Th?ng kê (d?u sách có lu?t mu?n nhi?u nh?t, s? lu?ng m?i lo?i  sách còn l?i trong thu vi?n…)
+-	Qu?n lý b?n d?c(nh?p,ch?nh s?a thông tin ngu?i mu?n nhu tên, tu?i, d?a ch?, email, sdt,... ngày tháng mu?n, h?n tr?)
+-	Qu?n lý thu chi
+
+Quy?n l?i:
+-	Ð?i v?i ngu?i s? d?ng
+?	xem thông tin ngu?i mu?n sách
+?	xem thông tin v? sách
+?	Ð?t hàng và thanh toán 
+2.	Th?i gian th?c hi?n
+Th?i gian th?c hi?n: g?n 4 tháng (b?t d?u t? ngày 01/01/2022 -> 29/04/2022) 
+PH?N 2.	T? CH?C D? ÁN
+Nhóm 3: bao g?m 3 thành viên:
+A37340 – Nguy?n Vi?t Cu?ng
+A37342 – Nguy?n Nh?t Minh
+A37285 – Ph?m Th?  Hoài Phuong
+
+Qu?n lý d? án: Nguy?n Vi?t Cu?ng
+?	Nhóm nghi?p v?: 
+?	Tru?ng nhóm: Nguy?n Vi?t Cu?ng
+?	Thành viên:
+o	Ph?m Th?  Hoài Phuong
+o	Nguy?n Nh?t Minh
+?	Nhóm PTTK:
+?	Tru?ng nhóm: Nguy?n Nh?t Minh
+?	Thành viên:
+o	Nguy?n Vi?t Cu?ng 
+o	Ph?m Th?  Hoài Phuong
+?	Nhóm l?p trình:
+?	Tru?ng nhóm: Nguy?n Vi?t Cu?ng
+?	Thành viên:
+o	Ph?m Th?  Hoài Phuong
+o	Nguy?n Nh?t Minh
+?	Nhóm Test:
+?	Tru?ng nhóm: Ph?m Th? Hoài Phuong
+?	Thành viên:
+o	Nguy?n Vi?t Cu?ng 
+o	Nguy?n Nh?t Minh
+?	Nhóm tri?n khai:
+?	Tru?ng nhóm: Ph?m Th? Hoài Phuong
+?	Thành viên:
+o	Nguy?n Vi?t Cu?ng 
+o	Nguy?n Nh?t Minh
+ 
+?	Qu?n lý c?u hình:
+?	Tru?ng nhóm: Nguy?n Nh?t Minh
+?	Thành viên:
+o	Nguy?n Vi?t Cu?ng
+o	Ph?m Th?  Hoài Phuong
+ 
+Hình 1. T? ch?c d? án
+ 
+PH?N 3.	QU?N LÝ NHÂN L?C VÀ MÔI TRU?NG
+1.	Các giai do?n th?c hi?n
+Giai do?n th?c hi?n	Th?i gian th?c hi?n
+(ngày)	S? ngu?i	Quy mô
+(Ngày công)	Ghi chú
+Kh?o sát	25	3	75 (2.88 mm)	
+Phân tích thi?t k?	29	3	87 (3.35mm)	
+L?p trình	28	3	84(3.23 mm)	
+Ki?m th?	8	3	24 (0.92 mm)	
+Tri?n khai	7	3	21 (0.81 mm)	
+T?ng	97		291 (11.19 mm)	1 mm = 26 ngày công
+B?ng 1. B?ng mô t? nh?ng ngu?i tham gia th?c hi?n d? án theo t?ng giai do?n
+
+2.	Các công vi?c trong t?ng giai do?n
+các công vi?c	Th?i gian th?c hi?n
+(ngày)	S? ngu?i	Quy mô
+(Ngày công)	Ghi chú
+1.	Kh?o sát				
+g?p g? khách hàng	13	2	75 (2.88 mm)	
+ Xác d?nh yêu c?u	5	3	15 (0.57mm)	
+Ki?m tra yêu c?u	4	1	4(0.15mm)	
+T?ng h?p báo cáo
+	2	1	2(0.08mm)	
+2.	Phân tích Thi?t k?				
+Mô hình hóa quy trình nghi?p v?	2	1	2(0.08mm)	
+Xây d?ng so d? lu?ng công vi?c	2	2	4(0.15mm)	
+Mô t? các tác nhân, th?c th?, các ch?c nang chính	3	3	9(0.35mm)	
+Ð?c t? các ch?c nang chính c?a h? th?ng và vi?t tài li?u d?c t	6	3	18(0.69mm)	
+L?a ch?n ki?n trúc h? th?ng, co s? d? li?u	2	1	2(0.08mm)	
+T?ng h?p tài li?u phân tích	1	1	2(0.08mm)	
+ Thi?t k? so d? l?p phân tích cho các ch?c nang	5	1	5(0.19mm)	
+ Thi?t k? so d? trình t? cho các ch?c nang	5	1	5(0.19mm)	
+ Thi?t k? so d? l?p chi ti?t cho các ch?c nang	4	2	8(0.31mm)	
+ Thi?t k? co s? d? li?u	3	2	6(0.23mm)	
+ Thi?t k? giao di?n	8	1	8(0.31mm)	
+ T?ng h?p tài li?u thi?t k? h? th?ng	1	3	3(0.12mm)	
+3.	Xây d?ng h? th?ng				
+Xây d?ng co s? d? li?u	17	3	51(1.96mm)	
+Xây d?ng giao di?n
+	17	3	51(1.96mm)	
+Xây d?ng ch?c nang	21	3	63(2.42mm)	
+Ghép các module chuong trình d? t?o m?t chuong trình hoàn ch?nh	4	2	8(0.31mm)	
+Vi?t tài li?u xây d?ng h? th?ng	2	1	2(0.08mm)	
+				
+4.	Ki?m th? h? th?ng	8	3	24(0.92mm)	
+S?a các l?i phát hi?n du?c	2	1	2(0.08mm)	
+Ki?m th? và kh?c ph?c l?i	3	2	6(0.23mm)	
+T?ng h?p tài li?u ki?m th?	1	1	1(0.04mm)	
+5.	Tri?n khai h? th?ng	5	3	15(0.58mm)	
+Cài d?t h? th?ng	2	1	2(0.08mm)	
+Hu?ng d?n s? d?ng	2	1	2(0.08mm)	
+Vi?t tài li?u tri?n khai	1	1	1(0.04mm)	
+T?ng k?t và k?t thúc d? án	2	3	6(0.23mm)	
+T?ng	97		291 (11.19 mm)	1 mm = 26 ngày công
+
+B?ng 2. B?ng d? ki?n nhân l?c theo công vi?c
+
+6.	Các m?c ki?m soát d? án (Milestone)
+Mã Milestone	Th?i gian	Mô t?
+MT001	04/02/2022	M?c ki?m soát chu?n b? d? án,kh?o sát nghi?p v?
+MT002	19/02/2022	M?c ki?m soát phân tích nghi?p v?
+MT003	08/03/2022	M?c ki?m soát thi?t k? CSDL, giao di?n và các ch?c nang
+MT004	13/04/2022	M?c ki?m soát l?p trình giao di?n và các ch?c nang
+MT005	22/04/2022	M?c ki?m soát ki?m th? các ch?c nang 
+MT006	28/04/2022	M?c ki?m soát tri?n khai ph?n m?m
+MT007	29/04/2022	M?c ki?m soát hoàn thành d? án
+B?ng 3. B?ng Milestone
+PH?N 4.	CO S? V?T CH?T
+1.	Máy ch?
+A.	Ph?n c?ng:
+CPU	RAM	SSD	Architecture
+Intel core i5, 2.2GHz x 4	16 GB	512GB	64 bit
+
+B.	Ph?n m?m
+Môi tru?ng phát tri?n
+-	Winform
+Môi tru?ng ch?y ph?n m?m
+Windows 10
+Ngôn ng? l?p trình:
+- C#
+N?n t?ng:
+- .NET
+Công c? l?p trình/thi?t k?:
+Tên ph?n m?m	Phiên b?n	Ghi chú
+Visual Studio 2022	2022	Code editor, IDE
+
+Các công c? khác:
+2.	Máy tr?m
+A.	Ph?n c?ng:
+CPU	RAM	HDD	Architecture
+Intel core i7, 2.2GHz x 4	8 GB	1 TB	64 bit
+
+B.	Ph?n m?m
+Môi tru?ng ch?y h? th?ng
+-	Windows 10
+Công c? ch?y h? th?ng
+-	desktop
+Các công c? khác:
+
+3.	Qu?n lý truy?n thông
+Các công c? h? tr? trao d?i tin nh?n, d? li?u:
+?	Gi?a các thành viên trong d? án
+-	Facebook 
+-	MS Team
+-	Google Drive
+?	Gi?a thành viên d? án v?i khách hàng
+-	Gmail
+PH?N 5.	L?CH TRÌNH TH?C HI?N
+-	L?ch trình theo mô hình thác d? (warterfall) 
+-	Các giai do?n chính trong l?ch trình th?c hi?n:
++	Chu?n b? d? án
++	Kh?o sát nghi?p v?, yêu c?u c?a khách hàng
++	Phân tích yêu c?u và tài li?u d?c t?
++	Thi?t k? CSDL và giao di?n cho các ch?c nang
++	L?p trình
++	Ki?m th?
++	Tri?n khai cài d?t
+
+Task Name	Duration	Start	Finish	Resource Names	Document
+1.Chu?n b? d? án	9 days	Sat 1/1/22	Mon 1/10/22		
+   1.1.M?c tiêu d? án	1 day	Sat 1/1/22	Sat 1/1/22	Cu?ng	
+   1.2.Xây d?ng k? ho?ch và chi?n lu?c	1.5 days	Mon 1/3/22	Tue 1/4/22	Cu?ng,Minh,Phuong	
+   1.3.Xác d?nh công c? h? tr?	1 day	Tue 1/4/22	Tue 1/4/22	Minh	
+   1.4.Xác d?nh ph?m vi	1 day	Tue 1/4/22	Tue 1/4/22	Cu?ng	
+   1.5.Tài li?u liên quan	1.5 days	Wed 1/5/22	Thu 1/6/22	Phuong	
+   1.6.Phân tích r?i ro	1.5 days	Wed 1/5/22	Thu 1/6/22	Cu?ng,Minh	
+   1.7.T?ng h?p báo cáo	2 days	Sat 1/8/22	Mon 1/10/22	Phuong,Minh,Cu?ng	
+2.Kh?o sát	25 days	Mon 1/10/22	Fri 2/4/22		
+   2.1.G?p g? khách hàng	13 days	Mon 1/10/22	Sat 1/22/22		
+      2.1.1.Tham dò yêu c?u c?a khách hàng	6 days	Mon 1/10/22	Sat 1/15/22	Phuong	
+      2.1.2.Tham dò th? tru?ng	6 days	Mon 1/17/22	Sat 1/22/22	Phuong	
+   2.2.Xác d?nh yêu c?u	5 days	Mon 1/24/22	Fri 1/28/22	Phuong	
+   2.3.Ki?m tra yêu c?u	4 days	Sat 1/29/22	Wed 2/2/22	Minh,Phuong	
+   2.4.T?ng h?p báo cáo	2 days	Thu 2/3/22	Fri 2/4/22	Minh,Phuong	
+   MKS | Xác d?nh yêu c?u h? th?ng	1 day	Fri 2/4/22	Fri 2/4/22	Cu?ng	Tài li?u d?c t? yêu c?u c?a h? th?ng
+3.Phân tích	14 days	Sat 2/5/22	Sat 2/19/22		
+   3.1.Mô hình hóa quy trình nghi?p v?	2 days	Sat 2/5/22	Mon 2/7/22	Cu?ng,Minh,Phuong	
+   3.2.Xây d?ng so d? lu?ng công vi?c	2 days	Mon 2/7/22	Tue 2/8/22	Cu?ng,Minh,Phuong	
+   3.3.Mô t? các tác nhân, th?c th?, các ch?c nang chính	3 days	Tue 2/8/22	Thu 2/10/22		
+      3.3.1.Nghi?p v? cho mu?n sách	0.5 days	Tue 2/8/22	Tue 2/8/22	Cu?ng	
+      3.3.2.Nghi?p v? qu?n lý ngu?i mu?n	0.5 days	Tue 2/8/22	Tue 2/8/22	Phuong	
+      3.3.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	0.5 days	Tue 2/8/22	Tue 2/8/22	Minh	
+      3.3.4.nghi?p v? qu?n lý chi phí	0.5 days	Wed 2/9/22	Wed 2/9/22	Minh	
+      3.3.5.T?ng h?p tài li?u mô t? các tác nhân, th?c th?, các ch?c nang chính	1 day	Wed 2/9/22	Thu 2/10/22	Minh,Cu?ng,Phuong	
+   3.4.Ð?c t? các ch?c nang chính c?a h? th?ng và vi?t tài li?u d?c t?	6 days	Thu 2/10/22	Tue 2/15/22		
+      3.4.1.Nghi?p v? cho mu?n sách	1 day	Thu 2/10/22	Thu 2/10/22	Phuong	
+      3.4.2.Nghi?p v? qu?n lý ngu?i mu?n	1 day	Fri 2/11/22	Fri 2/11/22	Phuong	
+      3.4.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	1 day	Sat 2/12/22	Sat 2/12/22	Cu?ng	
+      3.4.4.Nghi?p v? qu?n lý chi phí	1 day	Mon 2/14/22	Mon 2/14/22	Cu?ng	
+      3.4.5.T?ng h?p tài li?u d?c t? ch?c nang	1 day	Tue 2/15/22	Tue 2/15/22	Phuong,Cu?ng	
+   3.5.L?a ch?n ki?n trúc h? th?ng, co s? d? li?u	2 days	Wed 2/16/22	Thu 2/17/22	Minh,Cu?ng	
+   3.6.T?ng h?p tài li?u phân tích	1 day	Fri 2/18/22	Fri 2/18/22	Minh,Cu?ng,Phuong	
+   MKS| Phân tích	1 day	Sat 2/19/22	Sat 2/19/22	Minh	tài li?u phân tích
+4.Thi?t k? h? th?ng	15 days	Mon 2/21/22	Tue 3/8/22		
+   4.1.Thi?t k? so d? l?p phân tích cho các ch?c nang	5 days	Mon 2/21/22	Fri 2/25/22		
+      4.1.1.Nghi?p v? cho mu?n sách	1 day	Mon 2/21/22	Mon 2/21/22	Minh	
+      4.1.2.Nghi?p v? qu?n lý ngu?i mu?n	1 day	Tue 2/22/22	Tue 2/22/22	Minh	
+      4.1.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	1 day	Wed 2/23/22	Wed 2/23/22	Minh	
+      4.1.4.Nghi?p v? qu?n lý chi phí	1 day	Thu 2/24/22	Thu 2/24/22	Minh	
+      4.1.5.T?ng h?p tài li?u thi?t k? so d? phân tích	1 day	Fri 2/25/22	Fri 2/25/22	Minh	
+   4.2.Thi?t k? so d? trình t? cho các ch?c nang	5 days	Mon 2/21/22	Fri 2/25/22		
+      4.2.1.Nghi?p v? cho mu?n sách	1 day	Mon 2/21/22	Mon 2/21/22	Phuong	
+      4.2.2.Nghi?p v? qu?n lý ngu?i mu?n	1 day	Tue 2/22/22	Tue 2/22/22	Phuong	
+      4.2.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	1 day	Wed 2/23/22	Wed 2/23/22	Phuong	
+      4.2.4.Nghi?p v? qu?n lý chi phí	1 day	Thu 2/24/22	Thu 2/24/22	Phuong	
+      4.2.5.T?ng h?p tài li?u thi?t k? so d? trình t?	1 day	Fri 2/25/22	Fri 2/25/22	Phuong	
+   4.3.Thi?t k? so d? l?p chi ti?t cho các ch?c nang	4 days	Sat 2/26/22	Tue 3/1/22		
+      4.3.1.Nghi?p v? cho mu?n sách	0.5 days	Sat 2/26/22	Sat 2/26/22	Minh,Phuong	
+      4.3.2.Nghi?p v? qu?n lý ngu?i mu?n	0.5 days	Sat 2/26/22	Sat 2/26/22	Minh,Phuong	
+      4.3.3.Nghi?p v? qu?n lý thông tin d?u sách cho mu?n	0.5 days	Mon 2/28/22	Mon 2/28/22	Minh,Phuong	
+      4.3.4.Nghi?p v? qu?n lý chi phí	0.5 days	Mon 2/28/22	Mon 2/28/22	Minh,Phuong	
+      4.3.5.T?ng h?p tài li?u thi?t k? so d? chi ti?t	1 day	Tue 3/1/22	Tue 3/1/22	Minh,Phuong	
+   4.4.Thi?t k? co s? d? li?u	3 days	Wed 3/2/22	Fri 3/4/22		
+      4.4.1.Nghi?p v? cho mu?n sách	1 day	Wed 3/2/22	Wed 3/2/22	Minh	
+      4.4.2.Nghi?p v? qu?n lý ngu?i mu?n	1 day	Wed 3/2/22	Wed 3/2/22	Phuong	
+      4.4.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	1 day	Thu 3/3/22	Thu 3/3/22	Minh	
+      4.4.4.Nghi?p v? qu?n lý chi phí	1 day	Thu 3/3/22	Thu 3/3/22	Phuong	
+      4.4.5.T?ng h?p tài li?u thi?t k? co s? d? li?u	1 day	Fri 3/4/22	Fri 3/4/22	Minh,Phuong	
+   4.5.Thi?t k? giao di?n	8 days	Sat 2/26/22	Sat 3/5/22		
+      4.5.1.Nghi?p v? cho mu?n sách	1 day	Sat 2/26/22	Sat 2/26/22	Cu?ng	
+      4.5.2.Nghi?p v? qu?n lý ngu?i mu?n sách	1.5 days	Mon 2/28/22	Tue 3/1/22	Cu?ng	
+      4.5.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	1.5 days	Wed 3/2/22	Thu 3/3/22	Cu?ng	
+      4.5.4.Nghi?p v? qu?n lý chi phí	1 day	Fri 3/4/22	Fri 3/4/22	Cu?ng	
+      4.5.5.T?ng h?p tài li?u thi?t k? giao di?n	1 day	Sat 3/5/22	Sat 3/5/22	Cu?ng	
+   4.6.T?ng h?p tài li?u thi?t k? h? th?ng	1 day	Mon 3/7/22	Mon 3/7/22	Minh,Cu?ng,Phuong	
+   MKS | Thi?t k?	1 day	Tue 3/8/22	Tue 3/8/22	Minh	tài li?u thi?t k?
+5.Xây d?ng h? th?ng	28 days	Tue 3/8/22	Wed 4/13/22		
+   5.1.Xây d?ng co s? d? li?u	17 days	Tue 3/8/22	Tue 3/29/22		
+      5.1.1.Nghi?p v? cho mu?n sách	3 days	Tue 3/8/22	Thu 3/10/22	Phuong	
+      5.1.2.Nghi?p v? qu?n lý ngu?i mu?n sách	4 days	Fri 3/11/22	Wed 3/16/22	Phuong	
+      5.1.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	4 days	Thu 3/17/22	Tue 3/22/22	Phuong	
+      5.1.4.Nghi?p v? qu?n lý chi phí	4 days	Wed 3/23/22	Sat 3/26/22	Phuong	
+      5.1.5.T?ng h?p tài li?u xây d?ng co s? d? li?u	2 days	Mon 3/28/22	Tue 3/29/22	Phuong	
+   5.2.Xây d?ng giao di?n	17 days	Tue 3/8/22	Tue 3/29/22		
+      5.2.1.Nghi?p v? cho mu?n sách	3 days	Tue 3/8/22	Thu 3/10/22	Minh	
+      5.2.2.Nghi?p v? qu?n lý ngu?i mu?n sách	4 days	Fri 3/11/22	Wed 3/16/22	Minh	
+      5.2.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	4 days	Thu 3/17/22	Tue 3/22/22	Minh	
+      5.1.4.Nghi?p v? qu?n lý chi phí	4 days	Wed 3/23/22	Sat 3/26/22	Minh	
+      5.1.5.T?ng h?p tài li?u xây d?ng giao di?n	2 days	Mon 3/28/22	Tue 3/29/22	Minh	
+   5.3.Xây d?ng ch?c nang	21 days	Tue 3/8/22	Mon 4/4/22		
+      5.3.1.Nghi?p v? cho mu?n sách	4 days	Tue 3/8/22	Fri 3/11/22	Cu?ng	
+      5.3.2.Nghi?p v? qu?n lý ngu?i mu?n sách	5 days	Mon 3/14/22	Fri 3/18/22	Cu?ng	
+      5.3.3.Nghi?p v? qu?n lý thông tin d?u sách du?c mu?n	5 days	Mon 3/21/22	Fri 3/25/22	Cu?ng	
+      5.3.4.Nghi?p v? qu?n lý chi phí	5 days	Sat 3/26/22	Thu 3/31/22	Cu?ng	
+      5.3.5.T?ng h?p tài li?u xây d?ng ch?c nang	2 days	Fri 4/1/22	Mon 4/4/22	Cu?ng	
+   Ghép các module chuong trình d? t?o m?t chuong trình hoàn ch?nh	4 days	Tue 4/5/22	Fri 4/8/22	Cu?ng,Minh	
+   Vi?t tài li?u xây d?ng h? th?ng	2 days	Mon 4/11/22	Tue 4/12/22	Cu?ng,Minh,Phuong	
+   MKS|L?p trình	1 day	Wed 4/13/22	Wed 4/13/22	Cu?ng	
+6.Ki?m th? h? th?ng	8 days	Wed 4/13/22	Fri 4/22/22		
+   T?o b? test và k?ch b?n test	0.5 days	Wed 4/13/22	Wed 4/13/22	Phuong	
+   Ki?m th? giao di?n	0.5 days	Wed 4/13/22	Wed 4/13/22	Phuong	
+   Ki?m th? validate	0.5 days	Wed 4/13/22	Wed 4/13/22	Cu?ng	
+   Ki?m th? ch?c nang	2 days	Wed 4/13/22	Fri 4/15/22	Cu?ng,Phuong	
+   Ki?m th? b?o m?t	1 day	Thu 4/14/22	Thu 4/14/22	Cu?ng,Phuong	
+   Ki?m th? tích h?p	1 day	Fri 4/15/22	Fri 4/15/22	Cu?ng,Phuong	
+   S?a các l?i phát hi?n du?c	2 days	Thu 4/14/22	Fri 4/15/22	Minh	
+   Ki?m th? và kh?c ph?c l?i	3 days	Mon 4/18/22	Wed 4/20/22	Minh,Cu?ng,Phuong	
+   T?ng h?p tài li?u ki?m th?	1 day	Thu 4/21/22	Thu 4/21/22	Phuong	k? ho?ch ki?m th?
+   MKS|Ki?m th?	1 day	Fri 4/22/22	Fri 4/22/22	Phuong	
+7.Tri?n khai h? th?ng	5 days	Mon 4/25/22	Fri 4/29/22		
+   7.1.Cài d?t h? th?ng	2 days	Mon 4/25/22	Tue 4/26/22	Minh	
+   7.2.Hu?ng d?n s? d?ng	2 days	Tue 4/26/22	Wed 4/27/22		
+      7.2.1.Ð?i v?i khách hàng	1 day	Tue 4/26/22	Tue 4/26/22	Cu?ng	
+      7.2.2.Ð?i v?i qu?n lý thu vi?n	1 day	Tue 4/26/22	Tue 4/26/22	Phuong	
+   7.3.Vi?t tài li?u tri?n khai	1 day	Wed 4/27/22	Wed 4/27/22	Cu?ng,Phuong	
+   MKS|Tri?n khai ph?n m?m	1 day	Thu 4/28/22	Thu 4/28/22	Cu?ng	
+T?ng k?t và k?t thúc d? án	2 days	Thu 4/28/22	Fri 4/29/22	Cu?ng	s?n ph?m
+
+
+B?ng 4. B?ng l?ch trình th?c hi?n
+
